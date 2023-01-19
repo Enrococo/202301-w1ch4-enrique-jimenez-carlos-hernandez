@@ -30,13 +30,15 @@ color: black;
   .navigation{
     display: flex;
     justify-content: end; 
+    font-weight: bold;
    
   }
 
   .navigation__menu--buy-now{
     border: 2px solid #ed6436;
-    border-radius: 0 25% 25% 25%;
+    border-radius: 0 10px 10px 10px;
     height: 25px;
+    padding:2px;
   }
 
 .navigation__menu{
