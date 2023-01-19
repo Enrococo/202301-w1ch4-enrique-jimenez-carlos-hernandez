@@ -21,7 +21,7 @@
     color: #ed6436;
   }
 
-  section{
+  .titles{
     display: flex;
     align-items: center;
     flex-direction: column;

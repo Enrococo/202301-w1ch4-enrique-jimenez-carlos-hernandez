@@ -8,13 +8,13 @@ header {
     box-shadow: 1px 0px 10px #ff947164;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 640px) {
     .navigation__menu{
         visibility: hidden;
     }
   }
 
-  @media (min-width: 424px) {
+  @media (min-width: 640px) {
     .fa-bars{
         visibility: hidden;
     }
