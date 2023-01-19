@@ -1,0 +1,35 @@
+.main__view-all{
+    font-size: 0.6 rem;
+    font-weight: 100;
+    border: 2px solid #ed6436;
+    background-color: #ed6436;
+    color:white;
+    border-radius: 0 10px 10px 10px;
+    height: 30px;
+    padding:2px;
+    width: fit-content;
+    margin: 20px;
+  }
+
+  .main__head{
+    font-weight: bolder;
+    
+  }
+
+  .main__sub-head{
+    font-weight: bold;
+    color: #ed6436;
+  }
+
+  .titles{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .section__titles{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+  }

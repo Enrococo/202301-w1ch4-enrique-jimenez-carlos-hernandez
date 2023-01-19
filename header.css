@@ -1,0 +1,47 @@
+
+
+header {
+    padding: 3% 2%;
+    color: #ed6436;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 1px 0px 10px #ff947164;
+}
+
+@media (max-width: 640px) {
+    .navigation__menu{
+        visibility: hidden;
+    }
+  }
+
+  @media (min-width: 640px) {
+    .fa-bars{
+        visibility: hidden;
+    }
+  }
+
+  a {
+text-decoration: none;
+color: black;
+
+
+  }
+
+  .navigation{
+    display: flex;
+    justify-content: end; 
+    font-weight: bold;
+   
+  }
+
+  .navigation__menu--buy-now{
+    border: 2px solid #ed6436;
+    border-radius: 0 10px 10px 10px;
+    height: 25px;
+    padding:2px;
+  }
+
+.navigation__menu{
+    display:inline-flex;
+    min-width: 280px; 
+}
