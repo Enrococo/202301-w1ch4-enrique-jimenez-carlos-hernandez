@@ -48,4 +48,5 @@ a:hover {
 .navigation__menu{
     display:inline-flex;
     min-width: 280px; 
+    gap: 20px;
 }
